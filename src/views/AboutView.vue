@@ -8,7 +8,7 @@
               <div class="card-body">
                 <div class="image text-center">
                   <img
-                    src="../assets/fo-asset/img/images/foysalbty."
+                    src="../assets/fo-asset/img/images/foysalbty.png"
                     alt="profile"
                     height="250px"
                     width=""
@@ -375,7 +375,7 @@
                           <div class="image">
                             <a href="article.html" class="d-block w-100">
                               <img
-                                src="../assets/fo-asset/img/projects/Cats Serve.png"
+                                src="../assets/fo-asset/img/projects/CatsServe.png"
                                 alt="blog-img-2"
                                 class="img-fluid w-100"
                               />
@@ -398,7 +398,7 @@
                           <div class="image">
                             <a href="article.html" class="d-block w-100">
                               <img
-                                src="../assets/fo-asset/img/projects/Menu List.png"
+                                src="../assets/fo-asset/img/projects/MenuList.png"
                                 alt="blog-img-3"
                                 class="img-fluid w-100"
                               />

@@ -387,7 +387,7 @@
                       <div class="project-item">
                         <div class="image">
                           <img
-                            src="../assets/fo-asset/img/projects/Menu List.png"
+                            src="../assets/fo-asset/img/projects/MenuList.png"
                             alt="project-2"
                             class="img-fluid w-100"
                           />
