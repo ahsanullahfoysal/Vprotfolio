@@ -352,7 +352,7 @@
                           <div class="image">
                             <a href="article.html" class="d-block w-100">
                               <img
-                                src="../assets/fo-asset/img/projects/productionautomation.png"
+                                src="../assets/fo-asset/img/projects/Productionautomation.png"
                                 alt="blog-img-1"
                                 class="img-fluid w-100"
                               />
