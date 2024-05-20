@@ -9,7 +9,7 @@
               <div class="card profile-card">
                 <div class="card-body">
                   <div class="image text-center">
-                    <img src="../assets/fo-asset/img/images/foysal bty.png" alt="profile" height="250px" width="">
+                    <img src="../assets/fo-asset/img/images/foysalbty.png" alt="profile" height="250px" width="">
                   </div>
                   <div class="text">
                     <h3 class="card-title">Ahsanullah Foysal 👋</h3>
@@ -153,7 +153,7 @@
                       </div>
                     </div>
                     <div class="block-image">
-                      <img src="../assets/fo-asset/img/projects/Production automation.png" alt="blog-img-1" class="img-fluid w-100">
+                      <img src="../assets/fo-asset/img/projects/Productionautomation.png" alt="blog-img-1" class="img-fluid w-100">
                     </div>
                   </div>
                   <div class="working-with-area">

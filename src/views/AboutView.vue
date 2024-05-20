@@ -8,7 +8,7 @@
               <div class="card-body">
                 <div class="image text-center">
                   <img
-                    src="../assets/fo-asset/img/images/foysal bty.png"
+                    src="../assets/fo-asset/img/images/foysalbty."
                     alt="profile"
                     height="250px"
                     width=""

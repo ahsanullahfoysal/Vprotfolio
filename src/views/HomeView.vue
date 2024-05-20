@@ -8,7 +8,7 @@
               <div class="card-body">
                 <div class="image text-center">
                   <img
-                    src="../assets/fo-asset/img/images/foysal bty.png"
+                    src="../assets/fo-asset/img/images/foysalbty.png"
                     alt="profile"
                     height="250px"
                     width=""
@@ -354,7 +354,7 @@
                       <div class="project-item">
                         <div class="image">
                           <img
-                            src="../assets/fo-asset/img/projects/Production automation.png"
+                            src="../assets/fo-asset/img/projects/Productionautomation.png"
                             alt="project-1"
                             class="img-fluid w-100"
                           />

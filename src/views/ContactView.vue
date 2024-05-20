@@ -9,7 +9,7 @@
               <div class="card profile-card">
                 <div class="card-body">
                   <div class="image text-center">
-                    <img src="../assets/fo-asset/img/images/foysal bty.png" alt="profile" height="250px" width="">
+                    <img src="../assets/fo-asset/img/images/foysalbty.png" alt="profile" height="250px" width="">
                   </div>
                   <div class="text">
                     <h3 class="card-title">Ahsanullah Foysal 👋</h3>
@@ -120,7 +120,7 @@
                             <div class="col-md-6">
                               <div class="mb-4">
                                 <label class="form-label">Email</label>
-                                <input name="email" v-model="email" required type="email" class="form-control shadow-none" placeholder="Enter your email">
+                                <input name="email"  required type="email" class="form-control shadow-none" placeholder="Enter your email">
                               </div>
                             </div>
                             <div class="col-md-6">
@@ -149,7 +149,7 @@
                               </div>
                             </div>
                             <div class="col-md-12">
-                              <button class="submit-btn" type="submit" @click="register">
+                              <button class="submit-btn" type="submit" >
                                 Send Message
                                 <svg class="icon" width="20" height="20" viewBox="0 0 20 20" fill="none"
                                   xmlns="http://www.w3.org/2000/svg">
