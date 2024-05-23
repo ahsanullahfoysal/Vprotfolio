@@ -257,7 +257,7 @@
                   </span>
                 </button>
                 <a
-                  href="src/assets/fo-asset/img/about-us/foysal.pdf"
+                  href="../assets/fo-asset/img/about-us/foysal.pdf"
                   class="lets-talk-btn"
                   download="foysal.pdf"
                 >
