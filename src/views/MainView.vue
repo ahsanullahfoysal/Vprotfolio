@@ -257,7 +257,7 @@
                   </span>
                 </button>
                 <a
-                  href="../assets/fo-asset/img/about-us/foysal.pdf"
+                  href="https://asset.hafja.com/CV_of-Foysal.pdf"
                   class="lets-talk-btn"
                   download="foysal.pdf"
                 >
